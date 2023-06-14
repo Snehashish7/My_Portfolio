@@ -1,11 +1,12 @@
-import logo from "./logo.svg";
-import backend from "./backend.png";
-import creator from "./creator.png";
-import mobile from "./mobile.png";
-import web from "./web.png";
-import hyperlink from "./hyperlink.jpg";
-import menu from "./menu.svg";
-import close from "./close.svg";
+import logo from "./tech/logo.svg";
+import backend from "./tech/backend.png";
+import creator from "./tech/creator.png";
+import mobile from "./tech/mobile.png";
+import web from "./tech/web.png";
+import hyperlink from "./tech/hyperlink.jpg";
+import menu from "./tech/menu.svg";
+import close from "./tech/close.svg";
+import herobg from "./tech/herobg.png"
 
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
@@ -23,16 +24,17 @@ import threejs from "./tech/threejs.svg";
 import Python from "./tech/Python.png";
 import mySql from "./tech/mySql.png";
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import leetcode from "./leetcode.png"
-import angela_yu from "./angela_yu.jpg"
-import IT_image from "./IT_image.jpg"
-import tindog from "./tindog.png";
-import todo_list from "./todo_list.png";
-import ShopEasy from "./ShopEasy.png";
+import carrent from "./tech/carrent.png";
+import jobit from "./tech/jobit.png";
+import leetcode from "./tech/leetcode.png"
+import angela_yu from "./tech/angela_yu.jpg"
+import IT_image from "./tech/IT_image.jpg"
+import tindog from "./tech/tindog.png";
+import todo_list from "./tech/todo_list.png";
+import ShopEasy from "./tech/ShopEasy.png";
 
 export {
+  herobg,
   logo,
   backend,
   creator,
